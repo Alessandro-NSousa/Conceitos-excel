@@ -1,11 +1,11 @@
 📊 #Ferramentas de Simulação de Investimentos em Excel
 Ao longo dos estudos, percebi como o Excel pode ser poderoso para quem quer simular cenários de investimento, mesmo sem ser especialista em finanças. Construi ferramentas que permitem analisar:
 
-Crescimento de um investimento ao longo do tempo;
+- Crescimento de um investimento ao longo do tempo;
 
-Comparações entre diferentes taxas de rendimento;
+- Comparações entre diferentes taxas de rendimento;
 
-Impacto de aportes mensais no longo prazo.
+- Impacto de aportes mensais no longo prazo.
 
 Foi interessante ver como simples fórmulas e gráficos podem ajudar a visualizar a evolução de um patrimônio ao longo dos anos.
 
